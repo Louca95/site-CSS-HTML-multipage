@@ -460,3 +460,37 @@ border: 1px solid white;
     padding: 22px;
     margin-left: 26px;
 }
+.Zonning1{
+    background-color: #dadada62;
+    color: rgba(0, 0, 0, 0.185);
+    text-align: start;
+    margin-bottom: 1px;
+    height: 150px;
+}
+.Zonning2{
+    background-color: #D5F69C;
+    height: 750px;
+
+}
+.banner2{
+    background-color: #F6F190;
+    height: 5%;
+    width: 75%;
+    padding: 3%;
+    margin-left: 86px;
+}
+.body1{
+    background-color: #99D978;
+    margin-left: 86px;
+    padding: 3%;
+    height: 468px;
+    width: 102px;
+}
+.aside1{
+    background-color: #31766F;
+    margin-left: 245px;
+    margin-top: -525px;
+    padding: 3%;
+    height: 468px;
+    width: 553px;
+}
