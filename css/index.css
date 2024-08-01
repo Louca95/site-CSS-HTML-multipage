@@ -606,3 +606,213 @@ border: 1px solid white;
     background-color: #D5F69C;
     height: 820px;
 }
+.header2{
+    background-color: #F7D165;
+    height: 73px;
+    width: 100%;
+    margin-bottom: 1px;
+    
+    text-align: center;
+}
+.nav2{
+    background-color: #D0B35E;
+    height: 59px;
+    width: 100%;
+    margin-bottom: 1px;
+    
+    text-align: center;
+}
+.banner18{
+    background-color: #B58C20;
+    height: 5px;
+    width: 100%;
+    margin-bottom: 1px;
+    
+    text-align: center;
+}
+.border{
+    border: 10px solid white;
+}
+.Zone1{
+    background-color: #D0B35E;
+    
+    margin-top: 0px;
+    padding: 3%;
+    height: 200px;
+    width: 44%;
+    color: white;
+}
+.Zone2{
+    background-color: #FBDF7E;
+    
+    margin-top: -240px;
+    padding: 3%;
+    height: 201px;
+    width: 44%;
+    color: white;
+    margin-left: 334px;
+}
+.Zone3{
+    background-color: #FBDF7E;
+    
+    margin-top: -1px;
+    padding: 3%;
+    height: 200px;
+    width: 44%;
+    color: white;
+}
+.Zone4{
+    background-color: #D0B35E;
+    margin-top: -240px;
+    padding: 3%;
+    height: 200px;
+    width: 44%;
+    color: white;
+    margin-left: 334px;
+}
+.footer5{
+    background-color: #F7D165;
+    height: 5%;
+    width: 648px;
+    padding: 3%;
+    
+    text-align: center;
+}
+
+.Zonning4{
+    background-color: #D5F69C;
+    height: 940px;
+}
+
+
+.header3{
+    background-color: #1E2F56;
+    
+    margin-top: 0px;
+    padding: 3%;
+    height: 80px;
+    width: 11%;
+    color: white;
+    margin-left: 111px;
+}
+.header4{
+    background-color: #354D83;
+    
+    margin-top: -137px;
+    padding: 3%;
+    height: 80px;
+    width: 37%;
+    color: white;
+    margin-left: 272px;
+}
+.header5{
+    background-color: #1E2F56;
+    
+    margin-top: -137px;
+    padding: 3%;
+    height: 80px;
+    width: 11%;
+    color: white;
+    margin-left: 680px;
+}
+.Menu1{
+    background-color: #0C475D;
+    height: 59px;
+    width: 730px;
+    margin-bottom: 1px;
+    margin-left: 111px;
+    text-align: center;
+}
+.Zone5{
+    background-color: #3A5D6C;
+    margin-left: 111px;
+    padding: 3%;
+    height: 509px;
+    width: 102px;
+    color: white;
+    margin-top: -1px;
+}
+.bodyA{
+    background-color: #B7BDC5;
+    
+    margin-top: -567px;
+    padding: 3%;
+    height: 148px;
+    width: 25%;
+    color: white;
+    margin-left: 270px;
+}
+.bodyB{
+    background-color: #1E2F56;
+    
+    margin-top: -206px;
+    padding: 3%;
+    height: 148px;
+    width: 24%;
+    color: white;
+    margin-left: 556px;
+}
+.SlideShow{
+    background-color: #2A4046;
+    
+    margin-top: 0px;
+    padding: 3%;
+    height: 150px;
+    width: 514px;
+    color: white;
+    margin-left: 270px
+}
+.bodyC{
+    background-color: #B7BDC5;
+    
+    margin-top: 0px;
+    padding: 3%;
+    height: 97px;
+    width: 10%;
+    color: white;
+    margin-left: 270px;
+}
+.bodyD{
+    background-color: #1E2F56;
+    
+    margin-top: -154px;
+    padding: 3%;
+    height: 97px;
+    width: 9%;
+    color: white;
+    margin-left: 414px;
+}
+.bodyE{
+    background-color: #F0F0F0;
+    
+    margin-top: -154px;
+    padding: 3%;
+    height: 97px;
+    width: 9%;
+    color: white;
+    margin-left: 556px;
+}
+.bodyF{
+    background-color: #1E2F56;
+    
+    margin-top: -154px;
+    padding: 3%;
+    height: 97px;
+    width: 9%;
+    color: white;
+    margin-left: 699px;
+}
+.footer6{
+    background-color: #0C475D;
+    height: 5%;
+    width: 673px;
+    padding: 3%;
+    margin-left: 111px;
+    text-align: center;
+}
+.tableau{
+    background-color: #D5F69C;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+}
